@@ -3,11 +3,11 @@
 
 ## Our Goal
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, all while building a useful dice shaker app.
+The objective of this project is to introduce that will form the foundation of most of the apps to build in the future. This app will teach a lot of important programming knowledge, all while building a useful mini dice ludo shaker app.
 
 ## What you will create
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+I am going to make a Las Vegas mini dice app. It can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, It’ll be fully set up to settle any score on the go!
 
 ## What you will learn
 
