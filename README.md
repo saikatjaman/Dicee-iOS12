@@ -1,7 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-#  Dicee
+#  Mini Dicee Ludo Game
 
 ## Our Goal
 
@@ -24,7 +22,3 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 * Learn about randomisation.
 * Code and use gesture controls.
 
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
